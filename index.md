@@ -29,10 +29,10 @@
 # 계획서
 [계획서](#계획서참고)
 # 주차별 개발 내용
-진도보고서 참고
-## 진도보고서
+[진도보고서](#진도보고서)
 
-| 주   | 이름                                                       | 활동내용                                                                                               |
+
+<!-- | 주   | 이름                                                       | 활동내용                                                                                               |
 | --- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | 1   |공통| 팀결성 팀최강박 결성 아이스브레이킹                       | 오리엔테이션 진행                                                                                          |
 ||**기타사항**|오리엔테이션 진행| 
@@ -94,24 +94,25 @@
 | 15  | 강윤성                                                         | 테스트 및 점검 / 부족한 부분 보완 / |Exporting                                                                   |  |
 || 최원준 | 테스트 및 점검 / 부족한 부분 보완 / Exporting                            |
 || 최재영 | 프로젝트를 완성한다.                                                 |
-|| 박 찬 | 프로젝트 완성                                                     |
-## 1주차
-## 2주차
-## 3주차
-## 4주차
-## 5주차
-## 6주차
-## 7주차
-## 8주차
-[중간보고서](#중간보고서)
+|| 박 찬 | 프로젝트 완성                                                     | -->
 
-## 9주차
-## 10주차
-## 11주차
-## 12주차
-## 13주차
-## 14주차
-## 15주차
+<!-- ## 1주차 -->
+<!-- ## 2주차 -->
+<!-- ## 3주차 -->
+<!-- ## 4주차 -->
+<!-- ## 5주차 -->
+<!-- ## 6주차 -->
+<!-- ## 7주차 -->
+<!-- ## 8주차 -->
+[중간보고서](#중간보고서)
+<!--  -->
+<!-- ## 9주차 -->
+<!-- ## 10주차 -->
+<!-- ## 11주차 -->
+<!-- ## 12주차 -->
+<!-- ## 13주차 -->
+<!-- ## 14주차 -->
+<!-- ## 15주차 -->
 
 # 참고자료
 >## ▶계획서
@@ -124,21 +125,25 @@
 ><img src ="./BlogImage/팀최강박 트랜스폼Drone 수행계획서004.png" width="720" height="1080"><br>
 ><img src ="./BlogImage/팀최강박 트랜스폼Drone 수행계획서005.png" width="720" height="1080"><br>
 >
+>## 진도보고서
+><img src ="./BlogImage/진도보고서_게임공학_최강박001.png" width="720" height="1080"><br>
+><img src ="./BlogImage/진도보고서_게임공학_최강박002.png" width="720" height="1080"><br>
+><img src ="./BlogImage/진도보고서_게임공학_최강박003.png" width="720" height="1080"><br>
 >### 기대효과 및 활용분야
 ><img src ="./BlogImage/팀최강박 트랜스폼Drone 수행계획서006.png" width="720" height="1080"><br>
 
 
 >## ▶중간보고서
-><img src ="./BlogImage/ClassDiagram1/슬라이드1.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드2.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드3.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드4.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드5.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드6.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드7.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드8.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드9.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드10.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드11.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드12.png" width="1080" height="480"><br>
-><img src ="./BlogImage/ClassDiagram1/슬라이드13.png" width="1080" height="480"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드1.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드2.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드3.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드4.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드5.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드6.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드7.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드8.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드9.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드10.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드11.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드12.png" width="1080" height="720"><br>
+><img src ="./BlogImage/ClassDiagram1/슬라이드13.png" width="1080" height="720"><br>
