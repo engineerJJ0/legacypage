@@ -147,3 +147,6 @@
 ><img src ="./lassDiagram1/슬라이드11.PNG" width="1080" height="720"><br>
 ><img src ="./ClassDiagram1/슬라이드12.PNG" width="1080" height="720"><br>
 ><img src ="./ClassDiagram1/슬라이드13.PNG" width="1080" height="720"><br>
+
+>## ▶결과물(구글Drive)
+><img src =".BlogImage/driveQR.PNG" width="720" height="720"><br>
