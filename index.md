@@ -135,15 +135,15 @@
 
 >## ▶중간보고서
 ><img src ="./ClassDiagram1/슬라이드1.PNG" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드2.png" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드3.png" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드4.png" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드5.png" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드6.png" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드7.png" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드8.png" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드9.png" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드10.png" width="1080" height="720"><br>
-><img src ="./lassDiagram1/슬라이드11.png" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드12.png" width="1080" height="720"><br>
-><img src ="./ClassDiagram1/슬라이드13.png" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드2.PNG" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드3.PNG" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드4.PNG" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드5.PNG" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드6.PNG" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드7.PNG" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드8.PNG" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드9.PNG" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드10.PNG" width="1080" height="720"><br>
+><img src ="./lassDiagram1/슬라이드11.PNG" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드12.PNG" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드13.PNG" width="1080" height="720"><br>
