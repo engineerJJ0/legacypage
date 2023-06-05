@@ -134,7 +134,7 @@
 
 
 >## ▶중간보고서
-><img src ="./ClassDiagram1/슬라이드1.png" width="1080" height="720"><br>
+><img src ="./ClassDiagram1/슬라이드1.PNG" width="1080" height="720"><br>
 ><img src ="./ClassDiagram1/슬라이드2.png" width="1080" height="720"><br>
 ><img src ="./ClassDiagram1/슬라이드3.png" width="1080" height="720"><br>
 ><img src ="./ClassDiagram1/슬라이드4.png" width="1080" height="720"><br>
